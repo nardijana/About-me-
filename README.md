@@ -15,7 +15,6 @@ Trabalho na Questor Sistemas como programador aprendiz, atuando na área de back
 <div>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
 
  # Contact
  <a href="https://www.linkedin.com/in/janaine-nardi-9a9a972a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/>
