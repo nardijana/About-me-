@@ -1,12 +1,10 @@
-# Olá! Bem vindo!🫶
+# Olá!🫶
 👋Meu nome é Janaine Nardi!
 
 # Sobre mim:
 
-Eu tenho 17 anos, estou atualmente cursando o 3 ano do ensino médio na escola Pedro Maciel.
-Atualmente estou cursando também um programa de jovens programadores na faculdade Senac em Chapecó-SC.
-Me considero uma pessoa criativa, organizada e proativa.
-Atualmente estou trabalhando no HRO - Hospital regional do Oeste, onde atuo como jovem aprendiz no SCIRAS.
+Tenho 19 anos e atualmente estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas no SENAI, em Chapecó-SC.
+Trabalho na Questor Sistemas como programador aprendiz, atuando na área de back-end com a linguagem Delphi.
 
 <img src="https://github-readme-stats.vercel.app/api?username=nardijana&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nardijana&theme=gotham&hide_border=true"  width="400">
